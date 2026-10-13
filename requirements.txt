@@ -1,0 +1,3 @@
+# PacketSentinel runs on the Python standard library only (Python 3.8+).
+# Only needed if you want to build the Windows .exe:
+pyinstaller>=6.0
